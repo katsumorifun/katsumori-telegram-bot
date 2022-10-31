@@ -1,0 +1,9 @@
+{
+    "subscribe": "subscribe",
+    "hello": "Hi!",
+    "subscribe.success": "subscribe.success",
+    "get.global.channel": "get.global.channel",
+    "get.dev.channel": "get.dev.channel",
+    "get.developer": "get.developer",
+    "command.not_found": "command.not_found"
+}
