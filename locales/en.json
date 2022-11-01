@@ -5,5 +5,7 @@
     "get.global.channel": "get.global.channel",
     "get.dev.channel": "get.dev.channel",
     "get.developer": "get.developer",
-    "command.not_found": "command.not_found"
+    "command.not_found": "command.not_found",
+    "unsubscribe": "unsubscribe",
+    "unsubscribe.success": "unsubscribe.success"
 }
